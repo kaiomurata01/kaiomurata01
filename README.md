@@ -33,10 +33,9 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
 | **Jogo Bandeira** | [🔗 Ver online](https://github.com/kaiomurata01/Jogo-Bandeiras) | HTML / CSS / JS / Node.js / Express         |
-| **Nome do Projeto 2** | [🔗 Ver online](https://seu-link.com) | Node.js / Express / MySQL|
-| **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart           |
+| **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |
+| **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |
 
-> 💡 Dica: Quando você publicar um projeto no GitHub Pages, coloque o link aqui!
 
 ---
 
@@ -46,7 +45,6 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 - 💻 Estou aprendendo **[HTML, CSS, JAVA, JavaScript, Cybersecurity]**
 - 🎯 Meu objetivo é **[ser um cybersegurança]**
 - 📚 Gosto de aprender sobre **[Programação]**
-- ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
 
 ---
 
