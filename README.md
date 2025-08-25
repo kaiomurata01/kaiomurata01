@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [Kaio Matteucci Murata]
+# 👋 Olá! Eu sou Kaio Matteucci Murata
 
 Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em [Front-End, Back-End e Cybersegurança].
 
