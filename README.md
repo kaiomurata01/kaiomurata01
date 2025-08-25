@@ -26,7 +26,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
 | **Jogo Bandeira** | [🔗 Ver online](https://github.com/kaiomurata01/Jogo-Bandeiras) | HTML / CSS / JS / Node.js / Express         |
-| **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |
+| **Jogo de Adivinhação em Java** | [🔗 Ver online](https://github.com/kaiomurata01/Jogo-de-Adivinha-o-em-Java) | Java |
 | **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |
 
 
