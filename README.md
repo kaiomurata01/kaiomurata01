@@ -31,7 +31,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | **Calculadora de Ohm** | [🔗 Ver online](https://github.com/kaiomurata01/Calculadora-de-Ohm) | Java |
 | **Site LAGUNA SCHOOL** | [🔗 Ver online](https://kaiomurata01.github.io/Site-LAGUNA-SCHOOL/) | HTML / CSS / JS |
 | **Site Art: exibições de arte urbana** | [🔗 Ver online](https://kaiomurata01.github.io/Site-Art-exibi-es-de-arte-urbana/) | HTML / BOOTSTRAP |
-| **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |
+| **Capivarinha** | [🔗 Ver online](https://github.com/kaiomurata01/Capivarinha) | JAVA |
 | **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |
 | **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |
 
