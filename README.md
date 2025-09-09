@@ -29,8 +29,8 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | **Jogo Bandeira** | [🔗 Ver online](https://github.com/kaiomurata01/Jogo-Bandeiras) | HTML / CSS / JS / Node.js / Express         |
 | **Jogo de Adivinhação em Java** | [🔗 Ver online](https://github.com/kaiomurata01/Jogo-de-Adivinha-o-em-Java) | Java |
 | **Calculadora de Ohm** | [🔗 Ver online](https://github.com/kaiomurata01/Calculadora-de-Ohm) | Java |
-| **Site LAGUNA SCHOOL** | [🔗 Ver online](https://github.com/kaiomurata01/Site-LAGUNA-SCHOOL) | HTML / CSS / JS |
-| **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |
+| **Site LAGUNA SCHOOL** | [🔗 Ver online](https://kaiomurata01.github.io/Site-LAGUNA-SCHOOL/) | HTML / CSS / JS |
+| **Site Art: exibições de arte urbana** | [🔗 Ver online](https://kaiomurata01.github.io/Site-Art-exibi-es-de-arte-urbana/) | |
 | **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |
 | **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |
 | **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |
