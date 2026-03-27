@@ -33,6 +33,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | **Site Art: exibições de arte urbana** | [🔗 Ver online](https://kaiomurata01.github.io/Site-Art-exibi-es-de-arte-urbana/) | HTML / BOOTSTRAP |
 | **Capivarinha** | [🔗 Ver online](https://github.com/kaiomurata01/Capivarinha) | JAVA |
 | **ChamadaFacil** | [🔗 Ver online](https://github.com/GustavoBabberg/Ponto_com_Biometria) | HTML / CSS / JS / Node.js / Express / ngrok / Arduino / SQLite / Bootstrap |
+| **Site Semana do ET Bilu** | [🔗 Ver online](https://kaiomurata01.github.io/Semana-do-ET-Bilu/) | HTML / BOOTSTRAP / CSS / JS |
 | **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |
 
 ---
