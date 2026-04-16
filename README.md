@@ -31,7 +31,7 @@ Sou estudante de **Ciência da Computação** e estou aprendendo **programação
 | **Capivarinha** | [🔗 Ver online](https://github.com/kaiomurata01/Capivarinha) | JAVA |
 | **ChamadaFacil** | [🔗 Ver online](https://github.com/GustavoBabberg/Ponto_com_Biometria) | HTML / CSS / JS / Node.js / Express / ngrok / Arduino / SQLite / Bootstrap |
 | **Site Semana do ET Bilu** | [🔗 Ver online](https://kaiomurata01.github.io/Semana-do-ET-Bilu/) | HTML / BOOTSTRAP / CSS / JS |
-| **Controle de tarefa simples** | [🔗 Ver online](https://kaiomurata01.github.io/Controle-de-tarefa-simples/) | |
+| **Controle de tarefa simples** | [🔗 Ver online](https://kaiomurata01.github.io/Controle-de-tarefa-simples/) | HTML / CSS |
 | **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |
 
 ---
