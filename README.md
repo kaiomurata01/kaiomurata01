@@ -33,6 +33,15 @@ Sou estudante de **Ciência da Computação** e estou aprendendo **programação
 | **Site Semana do ET Bilu** | [🔗 Ver online](https://kaiomurata01.github.io/Semana-do-ET-Bilu/) | HTML / BOOTSTRAP / CSS / JS |
 | **Controle de tarefa simples** | [🔗 Ver online](https://kaiomurata01.github.io/Controle-de-tarefa-simples/) | HTML / CSS |
 | **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |
+| **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |
+| **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |
+| **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |
+| **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |
+| **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |
+| **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |
+| **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |
+| **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |
+
 
 ---
 
