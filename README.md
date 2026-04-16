@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Kaio Matteucci Murata
 
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em [Front-End, Back-End e Cybersegurança].
+Sou estudante de **Ciência da Computação** e estou aprendendo **programação**. Tenho interesse especial em [Front-End, Back-End e Cybersegurança].
 
 ---
 
@@ -10,15 +10,12 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### Back-End
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Mobile
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ---
 
@@ -40,8 +37,8 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 💡 Sobre Mim
 
-- 🎓 Atualmente estudo no **[SESI/SENAI]**
-- 💻 Estou aprendendo **[HTML, CSS, JAVA, JavaScript, Cybersecurity]**
+- 🎓 Atualmente estudo no **[Faculdade Cruzeiro do Sul]**
+- 💻 Estou aprendendo **[HTML, CSS, JavaScript, Cybersecurity]**
 - 🎯 Meu objetivo é **[ser um cybersegurança]**
 - 📚 Gosto de aprender sobre **[Programação]**
 
